@@ -1,6 +1,6 @@
 # sort_all
 Implemenacja algorymów:
-,  sortowanie_babelkowe
+ sortowanie_babelkowe
 ,  sortowanie_proste_wstawianie1
 ,  sortowanie_proste_wybieranie
 ,  sortowanie_shella
