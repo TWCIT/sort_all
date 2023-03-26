@@ -1,5 +1,5 @@
 # sort_all
-,  implemenacja algorymów:
+Implemenacja algorymów:
 ,  sortowanie_babelkowe
 ,  sortowanie_proste_wstawianie1
 ,  sortowanie_proste_wybieranie
