@@ -1,12 +1,12 @@
 # sort_all
-implemenacja algorymów:
-sortowanie_babelkowe
-sortowanie_proste_wstawianie1
-sortowanie_proste_wybieranie
-sortowanie_shella
-sortowanie_szybkie
-sortowanie_przez_kopcowanie
-standard_sort  - biblioteczna dla porównania
+,  implemenacja algorymów:
+,  sortowanie_babelkowe
+,  sortowanie_proste_wstawianie1
+,  sortowanie_proste_wybieranie
+,  sortowanie_shella
+,  sortowanie_szybkie
+,  sortowanie_przez_kopcowanie
+,  standard_sort  - biblioteczna dla porównania
 
 eksperyment funkcja testująca algorytmy - złożonosc czasowa
 
